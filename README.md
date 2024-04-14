@@ -2,7 +2,7 @@
 
 <p>
 - Este proyecto resulta como práctica autodidacta trabajando
-                  desarrollo web. Se trata una una single-page application
+                  desarrollo web. Se trata una una SPA
                   totalmente responsiva que copia una sección de la plataforma
                   Netflix. Se utilizó una blibioteca de imagenes para emular el
                   contenido.
